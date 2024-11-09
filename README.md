@@ -2,7 +2,7 @@
 ##### Welcome to my professional portfolio! This project, crafted with Next.js and custom CSS, is a digital showcase of my skills, experience, and projects. Deployed with optimized performance on Vercel, this portfolio is both visually appealing and functionally robust.
 
 ## 🌐 Live Demo
-#### Explore my portfolio in action on Vercel:(https://portfolio-custom-css-ashen.vercel.app/)
+#### Explore my portfolio in action on Vercel:(https://custom-css-portfolio-lac.vercel.app/)
 
 ## 📌 Features
 ##### . Fully Responsive - Works seamlessly on mobile, tablet, and desktop devices.
